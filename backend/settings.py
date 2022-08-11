@@ -191,3 +191,4 @@ PASSWORD_RESET_TIMEOUT=900          # 900 Sec = 15 Min
 
 MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 MEDIA_URL = '/media/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
