@@ -62,6 +62,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://sub.example.com",
     "http://localhost:3000",
     "http://127.0.0.1:9000",
+    "https://rainbow-peony-acb912.netlify.app",
 ]
 
 ROOT_URLCONF = 'backend.urls'
